@@ -1,4 +1,4 @@
-# divante-recruitment
+# recruitment-task
 
 ## Project setup
 ```
